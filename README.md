@@ -1,2 +1,2 @@
 # dev_python
-This repository contains a collection of Python scripts for conducting spatial analysis.
+This repository contains a collection of Python scripts for conducting spatial analysis. The scripts utilize various libraries, such as geopandas and shapely, to process and analyze geospatial data. The repository also includes Jupyter notebooks demonstrating the use of the scripts for common spatial analysis tasks, such as generating choropleth maps and calculating distances between geographic features. These scripts can be used for a wide range of applications, including urban planning, environmental studies, and demographic analysis.
